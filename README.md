@@ -1,3 +1,5 @@
+![logo](https://user-images.githubusercontent.com/69382363/200500848-85ae5ebc-569e-49fb-9c2d-a92f3f59499b.png)
+
 <h1 align="center">Hi 👋, I'm Aniket Nimaje</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
