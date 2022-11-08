@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./https://user-images.githubusercontent.com/69382363/200502983-377ddd88-ac0d-4586-8729-0b2a0e9daffa.png)
 
 <h1 align="center">Hi 👋, I'm Aniket Nimaje</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
