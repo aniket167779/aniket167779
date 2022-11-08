@@ -1,4 +1,8 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Aniket Nimaje</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 🌱 I’m currently learning Java + DSA<br>📫 How to reach me aniketnimaje16@gmail.com<br>⚡ Fun fact I think I am funny 😅
 
 
