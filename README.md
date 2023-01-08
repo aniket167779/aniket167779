@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket167779&label=Profile%20views&color=0e75b6&style=flat" alt="aniket167779" /> </p>
 
-- 🌱 I’m currently learning **Java + DSA**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **aniketnimaje16@gmail.com**
 
