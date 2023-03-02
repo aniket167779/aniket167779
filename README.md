@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  > 
 > 🏆 63 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
  > 
