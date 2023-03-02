@@ -16,4 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 53 mins
+
+Markdown   38 mins         █████████████████▒░░░░░░░   69.33 %
+YAML       12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
+Git        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Other      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+```
+
 <!--END_SECTION:waka-->
