@@ -32,7 +32,7 @@ const aniket = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -114,5 +114,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aniket167779/aniket167779/master/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2023 11:47:01 UTC
+ Last Updated on 04/03/2023 18:34:27 UTC
 <!--END_SECTION:waka-->
