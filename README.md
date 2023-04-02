@@ -77,19 +77,16 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     5 mins              ██████████████████░░░░░░░   72.96 % 
-JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-HotstarClone             7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in CSS** 
@@ -109,5 +106,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aniket167779/aniket167779/master/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2023 18:31:12 UTC
+ Last Updated on 02/04/2023 18:31:11 UTC
 <!--END_SECTION:waka-->
