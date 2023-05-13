@@ -32,7 +32,7 @@ const aniket = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,16 +77,18 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     0 secs              █████████████████████████   100.00 % 
+JavaScript               2 hrs 7 mins        ████████████████████████░   97.61 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-class19-materials        0 secs              █████████████████████████   100.00 % 
+class19-materials        1 hr 22 mins        ████████████████░░░░░░░░░   63.15 % 
+class20-materials        48 mins             █████████░░░░░░░░░░░░░░░░   36.85 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in CSS** 
@@ -106,5 +108,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aniket167779/aniket167779/master/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2023 18:31:15 UTC
+ Last Updated on 13/05/2023 18:31:25 UTC
 <!--END_SECTION:waka-->
