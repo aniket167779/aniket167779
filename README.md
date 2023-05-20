@@ -77,18 +77,16 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 7 mins        ████████████████████████░   97.67 % 
-HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-class19-materials        1 hr 22 mins        ████████████████░░░░░░░░░   63.12 % 
-class20-materials        48 mins             █████████░░░░░░░░░░░░░░░░   36.88 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in CSS** 
@@ -108,5 +106,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aniket167779/aniket167779/master/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2023 18:31:05 UTC
+ Last Updated on 20/05/2023 18:31:17 UTC
 <!--END_SECTION:waka-->
