@@ -11,7 +11,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AniketNimaje97?label=Follow)](https://twitter.com/intent/follow?screen_name=AniketNimaje97)
 [![Linkedin: aniket](https://img.shields.io/badge/-aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-nimaje/)](https://www.linkedin.com/in/aniket-nimaje-2b4715163/)
-![GitHub followers](https://img.shields.io/github/followers/aniket167779?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=aniket167779.aniket167779)
 ![Waka Readme](https://github.com/aniket167779/aniket167779/workflows/Waka%20Readme/badge.svg)
 
