@@ -10,9 +10,9 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AniketNimaje97?label=Follow)](https://twitter.com/intent/follow?screen_name=AniketNimaje97)
-[![Linkedin: aniket](https://img.shields.io/badge/-aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-nimaje/)](https://www.linkedin.com/in/aniket-nimaje-2b4715163/)
+[![Linkedin: aniket](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-nimaje/)](https://www.linkedin.com/in/aniket-nimaje-2b4715163/)
+[![Mail Badge](https://img.shields.io/badge/-Contact-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aniketnimaje16@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=aniket167779.aniket167779)
-![Waka Readme](https://github.com/aniket167779/aniket167779/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
