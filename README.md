@@ -39,7 +39,7 @@ const aniket = {
 
 **🐱 My GitHub Data** 
 
-> 📦 60.5 kB Used in GitHub's Storage 
+> 📦 60.4 kB Used in GitHub's Storage 
  > 
 > 🏆 90 Contributions in the Year 2023
  > 
@@ -105,5 +105,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aniket167779/aniket167779/master/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2023 18:31:18 UTC
+ Last Updated on 23/07/2023 18:31:18 UTC
 <!--END_SECTION:waka-->
